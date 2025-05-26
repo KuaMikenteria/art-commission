@@ -63,6 +63,14 @@ input[type="radio"] {
   z-index: 1000;
 }
 
+.paypal_b {
+  color: rgb(113, 151, 226)
+}
+.paypal_b:hover {
+  background-color: white;
+  color: blue
+}
+
 .navbar label {
   flex: 1;
   text-align: center;
