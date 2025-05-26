@@ -89,6 +89,7 @@ input[type="radio"] {
 
 #tab1:checked ~ .content .navbar label[for="tab1"],
 #tab2:checked ~ .content .navbar label[for="tab2"],
+#tab2:checked ~ .content .navbar label[for="tab4"],
 #tab3:checked ~ .content .navbar label[for="tab3"] {
   background-color: #1f2937;
 }
